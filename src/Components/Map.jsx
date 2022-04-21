@@ -3,7 +3,7 @@ import React, { useCallback, useState } from "react";
 import { GoogleMap, useJsApiLoader, Marker } from "@react-google-maps/api";
 import { avgRating } from "../Helper";
 const MapDisplay = ({ restaurantData }) => {
-    const center = { lat: 40.715089, lng: -73.963585 }
+    const center = { lat: 40.715555, lng: -73.973585 }
     const containerStyle = {
         width: '100vw',
         height: '400px'
