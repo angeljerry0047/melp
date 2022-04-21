@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/melp/static/css/main.ee472d5e.css",
+    "main.js": "/melp/static/js/main.686e2b2d.js",
+    "static/js/787.54448199.chunk.js": "/melp/static/js/787.54448199.chunk.js",
+    "static/media/6.jpeg": "/melp/static/media/6.5ba94bb4d5ae474aac68.jpeg",
+    "static/media/1.jpeg": "/melp/static/media/1.62ef0da9f4388d6ee5b8.jpeg",
+    "static/media/5.jpeg": "/melp/static/media/5.1162ee62c4e65fefa7e0.jpeg",
+    "static/media/2.jpeg": "/melp/static/media/2.2ca9f5c72dc38b4a67af.jpeg",
+    "static/media/4.jpeg": "/melp/static/media/4.b414840658c58d18b88e.jpeg",
+    "static/media/9.jpeg": "/melp/static/media/9.3024acee492e130818f9.jpeg",
+    "static/media/3.jpeg": "/melp/static/media/3.f516caf5f1222fd8a8b9.jpeg",
+    "static/media/10.jpeg": "/melp/static/media/10.8be32a9afae78bd1939b.jpeg",
+    "static/media/pin.png": "/melp/static/media/pin.8210970acff9062a268b.png",
+    "static/media/8.jpeg": "/melp/static/media/8.53025b2b7394b8d01634.jpeg",
+    "static/media/restaurant.png": "/melp/static/media/restaurant.333ca6b3a2a84457ac3a.png",
+    "static/media/send.png": "/melp/static/media/send.c9448365acf2f8787baf.png",
+    "static/media/7.jpeg": "/melp/static/media/7.c654797b776c5604eeb3.jpeg",
+    "static/media/like.png": "/melp/static/media/like.2d3cff309880b6824969.png",
+    "static/media/heart.png": "/melp/static/media/heart.a13e3857c7c7f11756ac.png",
+    "index.html": "/melp/index.html",
+    "main.ee472d5e.css.map": "/melp/static/css/main.ee472d5e.css.map",
+    "main.686e2b2d.js.map": "/melp/static/js/main.686e2b2d.js.map",
+    "787.54448199.chunk.js.map": "/melp/static/js/787.54448199.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee472d5e.css",
+    "static/js/main.686e2b2d.js"
+  ]
+}
