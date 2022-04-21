@@ -1,7 +1,7 @@
 import React, { useCallback, useState } from "react";
-
 import { GoogleMap, useJsApiLoader, Marker } from "@react-google-maps/api";
 import { avgRating } from "../Helper";
+
 const MapDisplay = ({ restaurantData }) => {
     const center = { lat: 40.715555, lng: -73.973585 }
     const containerStyle = {
@@ -32,7 +32,7 @@ const MapDisplay = ({ restaurantData }) => {
                 onUnmount={onUnmount}
                 center={center}
                 mapContainerStyle={containerStyle}
-                zoom={11.5}
+                zoom={15}
                 options={{
                     zoomControl: false,
                     fullscreenControl: false
