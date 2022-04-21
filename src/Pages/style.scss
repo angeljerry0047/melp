@@ -1,0 +1,110 @@
+.home-container {
+    .sort-by {
+        margin: 5px 20vw;
+        display: flex;
+        justify-content: flex-end;
+
+        @media (max-width: 768px) {
+            margin: 10px !important;
+        }
+
+    }
+
+    @media (max-width: 768px) {
+
+        width: 100% !important;
+        padding: 1px !important;
+
+        .social-container {
+            margin: 14px !important;
+        }
+
+        .restaurant-main-card {
+            margin: 10px !important;
+
+            .card-top {
+                .card-name {
+                    word-break: break-all !important;
+                    line-height: 20px !important;
+
+                    .r-name {
+                        overflow-wrap: break-word !important;
+                    }
+                }
+            }
+        }
+
+        .restaurant-img {
+            height: 40px !important;
+            width: 40px !important;
+
+            margin: 20px 0 !important;
+
+        }
+
+
+    }
+
+    min-height: 92vh;
+    width: 100vw;
+    background: #efefef;
+    padding: 10vh 0;
+
+    .restaurant-main-card {
+        display: flex;
+        margin: 5px 20vw;
+        background: #fff;
+        border-radius: 10px;
+
+        .card-top {
+            display: flex;
+            margin: 5px 30px;
+            width: 85%;
+
+            .card-name {
+                margin: 0px 10px;
+                line-height: 14px;
+
+                .small-icon {
+                    height: 16px;
+                    margin-right: 5px;
+                }
+
+                .r-name {
+                    font-size: 20px;
+                    font-weight: bold;
+                    color: #FF3b3f;
+                }
+
+                .r-address {
+                    font-size: 14px;
+                    color: #a9a9a9;
+                }
+
+                .rating-start {
+                    pointer-events: none;
+                }
+            }
+        }
+    }
+
+    .social-container {
+        margin: 14px 0;
+        display: grid;
+
+        .like-icon {
+            height: 24px;
+        }
+
+        .share-button {
+            align-self: flex-end;
+        }
+    }
+
+    .restaurant-img {
+        height: 150px;
+        width: 220px;
+        border-radius: 10px;
+        margin: 5px 0;
+    }
+}
